@@ -17,12 +17,12 @@
 
 # Install dependencies
 
-- npm i
+- yarn install
 
 # Run ios
 
 - cd ios && pod install && cd ..
-- npx react-native run-ios
+- yarn run ios
 
 #  Android
 
